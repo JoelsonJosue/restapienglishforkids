@@ -8,6 +8,14 @@
       "highscore": 0
     }
   ],
+  "palavras": [
+    {
+      "id": 1,
+      "palavra": "Two",
+      "traducao": "Dois",
+      "categoria": "Números"
+    }
+  ],
   "categorias": [
     {
       "id": 1,
