@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Joélson Josué",
+      "email": "j@teste.com",
+      "xp": 0,
+      "highscore": 0
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Famílias",
+      "imagem": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "id": 2,
+      "nome": "Números",
+      "imagem": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "nome": "Cores",
+      "imagem": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
+      "id": 3
+    }
+  ]
+}
